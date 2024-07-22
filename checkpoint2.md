@@ -226,7 +226,7 @@ Read-Host
 Write-Host "--- Fin du script ---"
 ```
 
-# **Exercice 3
+# **Exercice 3**
 
 ## Q3.1
 Il s'agit d'un switch ou commutateur. Il permet aux ordinateurs de communiquer entre eux dans un réseau. Il leur permet également d'être relié au routeur B afin de communiquer avec les réseaux extérieurs.
@@ -263,7 +263,7 @@ dernière adresse : 10.11.255.254
 adresse de diffusion : 10.11.255.255
 
 ## Q 3.7
-Les PC 1, 3 et 4 sont sur le même sous réseaux ils pourront donc communiquer entre eux. Le PC 5 a un masque qui couvre la plage des 3 pc précédents, ils pourront donc communiquer également.
+Les PC 1, 3 et 4 sont sur le même sous réseaux ils pourront donc communiquer entre eux. Le PC 5 a un masque qui couvre la plage des 3 pc précédents, ils pourront donc communiquer également, toutefois cela perturbera certains services car le port du switch est configuré pour un réseau particulier.
 Toutefois, le PC 2 n'est pas sous le même réseau, il ne pourra communiquer avec aucun.
 
 ## Q3.8
