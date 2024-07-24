@@ -245,16 +245,16 @@ Il s'agit normalement de sa passerelle vers l'extérieur du réseau. Toutefois, 
 
 ## Q 3.6
 PC 1
-adresse de réseau : 10.10.4.0/16
-première adresse : 10.10.4.1
-dernière adresse : 10.10.4.254
-adresse de diffusion : 10.10.4.255
+adresse de réseau : 10.10.0.0/16
+première adresse : 10.10.0.1
+dernière adresse : 10.10.255.254
+adresse de diffusion : 10.10.255.255
 
 PC 2
-adresse de réseau : 10.11.80.0/16
-première adresse : 10.11.80.1
-dernière adresse : 10.11.80.254
-adresse de diffusion : 10.11.80.255
+adresse de réseau : 10.11.0.0/16
+première adresse : 10.11.0.1
+dernière adresse : 10.11.255.254
+adresse de diffusion : 10.11.255.255
 
 PC 5
 adresse de réseau : 10.10.0.0/15
